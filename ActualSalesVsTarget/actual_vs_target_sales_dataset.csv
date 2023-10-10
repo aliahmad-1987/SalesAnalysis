@@ -1,0 +1,731 @@
+Sale Date,Product Name,Sales Amount,Sales Target,Region,Sales Representative,Sales Team,Customer Segment
+2022-01-01,Product Z,13962.08,15035.8,South,Mike Johnson,Team Gamma,Education
+2022-01-02,Product V,7559.78,6458.58,North,Sarah Brown,Team Gamma,Enterprise
+2022-01-03,Product Y,-6941.61,-6164.43,North,Jane Doe,Team Beta,Education
+2022-01-04,Product X,16388.47,16636.95,North,Sarah Brown,Team Alpha,Enterprise
+2022-01-05,Product Y,11788.56,12178.41,East,Sarah Brown,Team Beta,Enterprise
+2022-01-06,Product W,15408.73,13256.93,East,John Smith,Team Gamma,Education
+2022-01-07,Product Y,9572.09,10822.66,West,John Smith,Team Gamma,Enterprise
+2022-01-08,Product V,4702.69,4735.75,East,Jane Doe,Team Alpha,Small Business
+2022-01-09,Product Z,7296.39,6493.59,North,Sarah Brown,Team Beta,Government
+2022-01-10,Product W,10941.19,11285.09,East,John Smith,Team Alpha,Small Business
+2022-01-11,Product V,-4917.68,-4433.15,West,Sarah Brown,Team Beta,Government
+2022-01-12,Product V,6711.35,7316.03,South,Sarah Brown,Team Alpha,Non-Profit
+2022-01-13,Product X,16777.64,15350.91,North,John Smith,Team Alpha,Individual
+2022-01-14,Product V,-6039.5,-5969.32,East,Sarah Brown,Team Beta,Startup
+2022-01-15,Product Z,7118.09,7002.25,North,Mike Johnson,Team Beta,Startup
+2022-01-16,Product X,4876.19,4352.2,South,John Smith,Team Beta,Startup
+2022-01-17,Product Z,4034.95,4102.07,South,Jane Doe,Team Beta,Corporate
+2022-01-18,Product X,2357.21,2359.21,South,Jane Doe,Team Beta,Startup
+2022-01-19,Product W,10570.9,11016.71,East,John Smith,Team Beta,Small Business
+2022-01-20,Product Z,16542.95,18108.94,South,John Smith,Team Alpha,Small Business
+2022-01-21,Product W,17211.56,18410.7,South,Jane Doe,Team Alpha,Education
+2022-01-22,Product W,14463.8,14428.64,South,Mike Johnson,Team Gamma,Non-Profit
+2022-01-23,Product V,10288.79,9069.6,West,Sarah Brown,Team Alpha,Enterprise
+2022-01-24,Product X,11490.84,11986.98,North,Jane Doe,Team Gamma,Corporate
+2022-01-25,Product Y,21021.85,20805.26,South,Mike Johnson,Team Alpha,Non-Profit
+2022-01-26,Product Y,2562.59,2650.27,North,Sarah Brown,Team Gamma,Individual
+2022-01-27,Product X,14731.19,12673.28,West,Sarah Brown,Team Beta,Government
+2022-01-28,Product Y,13750.83,14924.98,North,John Smith,Team Alpha,Education
+2022-01-29,Product X,7594.65,8048.22,North,John Smith,Team Alpha,Government
+2022-01-30,Product Z,9643.41,9411.94,South,Sarah Brown,Team Beta,Government
+2022-01-31,Product X,5999.41,5139.09,North,Sarah Brown,Team Gamma,Individual
+2022-02-01,Product Y,8558.8,8813.7,West,Jane Doe,Team Gamma,Government
+2022-02-02,Product Y,8200.59,9463.09,North,Mike Johnson,Team Beta,Corporate
+2022-02-03,Product Z,-1089.74,-1028.83,North,Mike Johnson,Team Gamma,Government
+2022-02-04,Product X,5331.12,4770.18,West,Mike Johnson,Team Beta,Corporate
+2022-02-05,Product X,8165.11,7684.12,South,Mike Johnson,Team Alpha,Startup
+2022-02-06,Product W,14401.2,14071.13,South,Jane Doe,Team Alpha,Non-Profit
+2022-02-07,Product W,15438.24,15359.86,South,Mike Johnson,Team Gamma,Small Business
+2022-02-08,Product V,-8267.75,-7577.32,North,Mike Johnson,Team Gamma,Individual
+2022-02-09,Product V,4295.27,4374.53,South,Jane Doe,Team Beta,Non-Profit
+2022-02-10,Product V,4178.34,4126.2,South,John Smith,Team Gamma,Individual
+2022-02-11,Product X,5015.68,5409.07,East,John Smith,Team Gamma,Education
+2022-02-12,Product Y,13198.63,12654.04,South,John Smith,Team Alpha,Individual
+2022-02-13,Product X,4704.61,4673.08,West,Mike Johnson,Team Alpha,Corporate
+2022-02-14,Product Z,21310.49,21265.74,North,Sarah Brown,Team Beta,Education
+2022-02-15,Product Y,5523.8,5477.84,South,Sarah Brown,Team Beta,Corporate
+2022-02-16,Product Y,7863.18,7580.08,East,Sarah Brown,Team Beta,Individual
+2022-02-17,Product X,7902.37,7599.08,South,Sarah Brown,Team Gamma,Education
+2022-02-18,Product Y,12516.57,12207.46,West,Jane Doe,Team Gamma,Small Business
+2022-02-19,Product X,10261.31,11234.83,North,Sarah Brown,Team Gamma,Small Business
+2022-02-20,Product Z,7703.49,7630.25,West,Mike Johnson,Team Gamma,Enterprise
+2022-02-21,Product Z,2873.58,2971.31,East,Jane Doe,Team Beta,Individual
+2022-02-22,Product X,20981.65,22673.16,South,Jane Doe,Team Beta,Startup
+2022-02-23,Product V,11422.42,10406.04,West,Mike Johnson,Team Beta,Individual
+2022-02-24,Product Y,12514.84,12877.68,East,John Smith,Team Gamma,Education
+2022-02-25,Product X,2965.43,3291.33,East,Sarah Brown,Team Beta,Individual
+2022-02-26,Product Y,-5969.03,-6416.16,North,Jane Doe,Team Beta,Small Business
+2022-02-27,Product W,13088.26,13127.34,South,Sarah Brown,Team Alpha,Enterprise
+2022-02-28,Product Y,8742.75,9471.34,North,Jane Doe,Team Alpha,Startup
+2022-03-01,Product X,8643.45,8253.65,East,Sarah Brown,Team Alpha,Startup
+2022-03-02,Product V,4974.28,4736.19,North,Mike Johnson,Team Gamma,Education
+2022-03-03,Product Z,10337.81,10273.6,East,Mike Johnson,Team Alpha,Government
+2022-03-04,Product Y,-5119.94,-5339.42,West,John Smith,Team Gamma,Non-Profit
+2022-03-05,Product Y,6731.42,6875.84,East,Mike Johnson,Team Alpha,Corporate
+2022-03-06,Product X,9819.03,9966.13,South,Sarah Brown,Team Alpha,Government
+2022-03-07,Product X,-105.75,-106.47,North,John Smith,Team Alpha,Education
+2022-03-08,Product Z,4192.1,4155.32,North,Sarah Brown,Team Beta,Small Business
+2022-03-09,Product X,12888.95,11574.24,North,Jane Doe,Team Alpha,Individual
+2022-03-10,Product Y,5626.09,5794.84,South,John Smith,Team Alpha,Corporate
+2022-03-11,Product W,14643.85,16584.93,South,Sarah Brown,Team Alpha,Small Business
+2022-03-12,Product Y,20987.67,20270.74,West,Sarah Brown,Team Alpha,Small Business
+2022-03-13,Product Y,4946.09,4986.32,South,John Smith,Team Beta,Education
+2022-03-14,Product V,7293.01,6887.23,South,Jane Doe,Team Alpha,Enterprise
+2022-03-15,Product Y,3742.54,3647.95,West,Sarah Brown,Team Gamma,Non-Profit
+2022-03-16,Product X,662.24,779.86,South,John Smith,Team Alpha,Corporate
+2022-03-17,Product Y,7757.37,7317.6,West,John Smith,Team Alpha,Small Business
+2022-03-18,Product W,-938.69,-942.14,North,Mike Johnson,Team Gamma,Corporate
+2022-03-19,Product Z,-4575.77,-4018.72,South,Sarah Brown,Team Gamma,Education
+2022-03-20,Product X,8857.27,9598.47,East,Jane Doe,Team Gamma,Non-Profit
+2022-03-21,Product X,11857.81,12370.08,East,Jane Doe,Team Beta,Corporate
+2022-03-22,Product V,6675.49,6760.46,North,Jane Doe,Team Alpha,Corporate
+2022-03-23,Product V,-4997.2,-4572.72,East,Jane Doe,Team Gamma,Non-Profit
+2022-03-24,Product Z,-2102.21,-1857.96,North,Sarah Brown,Team Gamma,Education
+2022-03-25,Product X,10762.42,10682.15,North,Jane Doe,Team Alpha,Corporate
+2022-03-26,Product V,12991.76,11212.9,East,Sarah Brown,Team Gamma,Small Business
+2022-03-27,Product V,11736.59,11015.3,North,John Smith,Team Alpha,Startup
+2022-03-28,Product X,6424.47,6502.06,North,Mike Johnson,Team Gamma,Government
+2022-03-29,Product Z,2288.72,2414.02,South,Mike Johnson,Team Alpha,Individual
+2022-03-30,Product V,-4723.98,-4470.72,East,John Smith,Team Alpha,Government
+2022-03-31,Product Z,14550.78,15339.65,East,Mike Johnson,Team Beta,Small Business
+2022-04-01,Product Z,5138.71,5108.47,West,Jane Doe,Team Alpha,Government
+2022-04-02,Product Y,10565.66,11629.73,North,Sarah Brown,Team Alpha,Non-Profit
+2022-04-03,Product W,6573.79,6628.09,North,Sarah Brown,Team Beta,Startup
+2022-04-04,Product Z,10881.43,11403.98,East,Mike Johnson,Team Beta,Startup
+2022-04-05,Product V,11289.3,12270.68,West,Jane Doe,Team Beta,Education
+2022-04-06,Product Y,8444.86,9156.65,East,Sarah Brown,Team Gamma,Enterprise
+2022-04-07,Product X,9133.36,8329.44,West,John Smith,Team Beta,Small Business
+2022-04-08,Product W,-1045.96,-1214.59,South,Sarah Brown,Team Gamma,Startup
+2022-04-09,Product X,16434.82,15831.96,South,John Smith,Team Gamma,Startup
+2022-04-10,Product Y,14548.42,15957.3,West,Sarah Brown,Team Beta,Individual
+2022-04-11,Product X,-5596.32,-4998.37,West,Mike Johnson,Team Alpha,Government
+2022-04-12,Product V,18536.99,15907.76,South,Mike Johnson,Team Beta,Enterprise
+2022-04-13,Product Y,3689.52,3119.29,East,Jane Doe,Team Beta,Corporate
+2022-04-14,Product V,13529.93,14125.74,West,Jane Doe,Team Alpha,Education
+2022-04-15,Product Y,-2277.74,-2567.92,South,Mike Johnson,Team Beta,Government
+2022-04-16,Product Y,10807.88,11078.59,North,Mike Johnson,Team Gamma,Corporate
+2022-04-17,Product W,1721.07,1874.95,West,Mike Johnson,Team Gamma,Startup
+2022-04-18,Product Z,4777.41,4843.59,East,Jane Doe,Team Alpha,Individual
+2022-04-19,Product W,8507.54,9144.53,East,John Smith,Team Gamma,Education
+2022-04-20,Product V,-519.0,-547.45,West,John Smith,Team Beta,Startup
+2022-04-21,Product Z,9501.51,8850.21,South,Mike Johnson,Team Beta,Individual
+2022-04-22,Product Z,4710.26,4396.31,South,Mike Johnson,Team Gamma,Non-Profit
+2022-04-23,Product Z,10665.95,11178.36,West,Jane Doe,Team Beta,Enterprise
+2022-04-24,Product Z,9718.87,9527.12,North,Jane Doe,Team Beta,Corporate
+2022-04-25,Product W,-1035.2,-1057.07,North,Sarah Brown,Team Beta,Government
+2022-04-26,Product Y,7639.89,7534.96,South,John Smith,Team Gamma,Enterprise
+2022-04-27,Product X,-1200.16,-1307.49,East,Sarah Brown,Team Gamma,Small Business
+2022-04-28,Product Z,5506.97,5617.36,North,Jane Doe,Team Alpha,Enterprise
+2022-04-29,Product X,11249.05,12910.95,East,Mike Johnson,Team Beta,Enterprise
+2022-04-30,Product Y,7127.54,7008.48,South,Mike Johnson,Team Gamma,Individual
+2022-05-01,Product V,2095.07,2163.33,North,Sarah Brown,Team Gamma,Startup
+2022-05-02,Product W,16741.91,17197.08,West,Mike Johnson,Team Beta,Education
+2022-05-03,Product W,35.36,31.33,West,Jane Doe,Team Beta,Small Business
+2022-05-04,Product Z,3653.57,3183.69,South,Sarah Brown,Team Gamma,Startup
+2022-05-05,Product Z,7075.3,6737.4,West,Sarah Brown,Team Beta,Startup
+2022-05-06,Product Y,1566.39,1411.74,West,John Smith,Team Alpha,Non-Profit
+2022-05-07,Product Z,14930.39,15154.34,North,Jane Doe,Team Gamma,Startup
+2022-05-08,Product V,2618.97,2767.12,South,Jane Doe,Team Beta,Corporate
+2022-05-09,Product V,4372.83,4547.19,South,Sarah Brown,Team Alpha,Individual
+2022-05-10,Product X,11656.49,11882.58,South,John Smith,Team Beta,Government
+2022-05-11,Product V,17821.18,20232.19,North,Mike Johnson,Team Alpha,Startup
+2022-05-12,Product Y,15627.31,13667.5,East,John Smith,Team Alpha,Education
+2022-05-13,Product X,4441.72,4391.32,South,Mike Johnson,Team Gamma,Corporate
+2022-05-14,Product X,11596.22,12983.19,South,Mike Johnson,Team Beta,Government
+2022-05-15,Product V,14687.83,12860.04,East,Jane Doe,Team Beta,Non-Profit
+2022-05-16,Product Z,13910.23,14507.7,North,Jane Doe,Team Beta,Small Business
+2022-05-17,Product V,1292.56,1288.14,North,Sarah Brown,Team Alpha,Small Business
+2022-05-18,Product Y,-9009.44,-9144.1,East,Mike Johnson,Team Beta,Education
+2022-05-19,Product W,-2319.18,-2102.17,North,Mike Johnson,Team Beta,Individual
+2022-05-20,Product W,7333.45,7833.47,West,Jane Doe,Team Beta,Enterprise
+2022-05-21,Product W,10659.52,10751.54,West,Sarah Brown,Team Alpha,Corporate
+2022-05-22,Product V,11437.51,10246.86,West,Mike Johnson,Team Gamma,Enterprise
+2022-05-23,Product X,11425.25,11439.82,South,Jane Doe,Team Beta,Individual
+2022-05-24,Product Z,12488.21,12179.67,South,Sarah Brown,Team Alpha,Education
+2022-05-25,Product W,-639.8,-573.18,West,John Smith,Team Beta,Individual
+2022-05-26,Product W,13241.55,13759.8,East,Jane Doe,Team Gamma,Startup
+2022-05-27,Product W,-4004.11,-3998.06,South,Jane Doe,Team Alpha,Small Business
+2022-05-28,Product V,-3722.59,-3968.74,South,John Smith,Team Beta,Individual
+2022-05-29,Product X,5463.64,5257.66,North,Jane Doe,Team Alpha,Corporate
+2022-05-30,Product Z,7044.84,5704.4,South,Mike Johnson,Team Beta,Non-Profit
+2022-05-31,Product W,5376.98,5196.37,South,Jane Doe,Team Beta,Non-Profit
+2022-06-01,Product X,1197.15,1297.91,East,John Smith,Team Beta,Education
+2022-06-02,Product V,-2227.8,-2209.19,East,Jane Doe,Team Alpha,Individual
+2022-06-03,Product W,10538.15,9429.34,West,John Smith,Team Alpha,Education
+2022-06-04,Product V,15290.49,15730.99,South,Mike Johnson,Team Alpha,Small Business
+2022-06-05,Product W,-5069.93,-5252.59,South,Mike Johnson,Team Alpha,Non-Profit
+2022-06-06,Product W,-2696.15,-2539.36,North,Jane Doe,Team Gamma,Corporate
+2022-06-07,Product V,11595.6,10986.05,South,Jane Doe,Team Alpha,Corporate
+2022-06-08,Product Z,5175.74,4953.44,North,Mike Johnson,Team Gamma,Small Business
+2022-06-09,Product W,9900.74,10237.09,South,Jane Doe,Team Beta,Small Business
+2022-06-10,Product W,4452.8,4257.54,West,Jane Doe,Team Gamma,Education
+2022-06-11,Product V,373.69,396.56,South,John Smith,Team Alpha,Non-Profit
+2022-06-12,Product Y,11946.25,10368.33,South,Jane Doe,Team Alpha,Small Business
+2022-06-13,Product Y,14613.14,15380.21,North,Jane Doe,Team Alpha,Corporate
+2022-06-14,Product W,-4303.03,-3823.48,East,Jane Doe,Team Beta,Education
+2022-06-15,Product W,5444.86,5720.69,West,Sarah Brown,Team Alpha,Government
+2022-06-16,Product Y,23814.15,24730.88,North,Sarah Brown,Team Beta,Education
+2022-06-17,Product Z,6207.36,6088.46,West,Mike Johnson,Team Gamma,Non-Profit
+2022-06-18,Product Y,9350.24,8932.67,South,John Smith,Team Beta,Small Business
+2022-06-19,Product Y,4373.37,3949.06,North,Mike Johnson,Team Alpha,Enterprise
+2022-06-20,Product W,8194.18,8545.25,East,John Smith,Team Gamma,Corporate
+2022-06-21,Product W,3094.46,2903.03,South,Mike Johnson,Team Alpha,Education
+2022-06-22,Product Z,14274.71,14591.57,East,Mike Johnson,Team Alpha,Non-Profit
+2022-06-23,Product Z,7919.09,7492.11,East,Sarah Brown,Team Beta,Startup
+2022-06-24,Product V,4925.54,5131.29,South,Jane Doe,Team Beta,Non-Profit
+2022-06-25,Product V,-2328.28,-2343.73,West,John Smith,Team Gamma,Corporate
+2022-06-26,Product Z,7360.14,7365.34,East,Jane Doe,Team Beta,Government
+2022-06-27,Product Y,-5017.15,-4603.48,West,Jane Doe,Team Beta,Corporate
+2022-06-28,Product W,3358.77,3450.58,West,Mike Johnson,Team Beta,Individual
+2022-06-29,Product Y,-2111.19,-1851.38,North,Sarah Brown,Team Alpha,Individual
+2022-06-30,Product W,10339.64,10665.22,East,Sarah Brown,Team Alpha,Corporate
+2022-07-01,Product Z,8267.88,7057.68,East,Jane Doe,Team Beta,Small Business
+2022-07-02,Product W,-6502.01,-6162.55,North,Jane Doe,Team Alpha,Non-Profit
+2022-07-03,Product X,-1148.58,-1075.01,West,Sarah Brown,Team Beta,Corporate
+2022-07-04,Product Z,13547.62,12798.51,North,John Smith,Team Beta,Corporate
+2022-07-05,Product W,11400.04,12110.68,North,Sarah Brown,Team Alpha,Enterprise
+2022-07-06,Product V,13420.03,12670.74,South,Sarah Brown,Team Beta,Individual
+2022-07-07,Product V,5813.5,5873.14,East,Mike Johnson,Team Gamma,Startup
+2022-07-08,Product Y,5246.92,4985.64,North,Jane Doe,Team Gamma,Small Business
+2022-07-09,Product Y,14359.36,15152.15,East,John Smith,Team Beta,Corporate
+2022-07-10,Product Y,12024.27,12900.34,South,Sarah Brown,Team Gamma,Non-Profit
+2022-07-11,Product W,7539.56,6814.3,South,John Smith,Team Alpha,Non-Profit
+2022-07-12,Product Z,13797.54,11908.3,East,Mike Johnson,Team Gamma,Education
+2022-07-13,Product X,244.78,265.14,South,Sarah Brown,Team Alpha,Individual
+2022-07-14,Product W,7453.89,7906.48,West,John Smith,Team Gamma,Government
+2022-07-15,Product V,12047.4,10639.37,South,Sarah Brown,Team Beta,Individual
+2022-07-16,Product Y,4722.52,4381.35,West,Sarah Brown,Team Alpha,Government
+2022-07-17,Product W,11051.74,11540.04,North,John Smith,Team Alpha,Small Business
+2022-07-18,Product Y,11045.56,12044.95,South,Jane Doe,Team Alpha,Startup
+2022-07-19,Product X,7723.88,7439.3,North,Sarah Brown,Team Gamma,Corporate
+2022-07-20,Product W,18607.43,19350.77,West,Mike Johnson,Team Beta,Startup
+2022-07-21,Product W,8077.31,9217.89,East,Jane Doe,Team Gamma,Government
+2022-07-22,Product V,14821.29,14382.12,South,Sarah Brown,Team Alpha,Corporate
+2022-07-23,Product Z,9327.55,9620.79,West,Jane Doe,Team Gamma,Corporate
+2022-07-24,Product Z,14562.71,15477.55,South,Jane Doe,Team Beta,Corporate
+2022-07-25,Product Y,13124.83,13480.48,North,Sarah Brown,Team Beta,Corporate
+2022-07-26,Product W,-7836.77,-7371.56,North,John Smith,Team Beta,Enterprise
+2022-07-27,Product X,14451.83,14813.57,North,John Smith,Team Gamma,Individual
+2022-07-28,Product X,7694.18,7736.89,East,Sarah Brown,Team Gamma,Individual
+2022-07-29,Product Z,6845.01,7383.51,West,John Smith,Team Beta,Enterprise
+2022-07-30,Product Z,21533.51,22084.54,West,Jane Doe,Team Beta,Government
+2022-07-31,Product W,10274.99,9502.43,South,Sarah Brown,Team Gamma,Non-Profit
+2022-08-01,Product X,12662.05,10869.56,West,Jane Doe,Team Beta,Startup
+2022-08-02,Product V,15987.44,18159.12,West,Jane Doe,Team Alpha,Individual
+2022-08-03,Product Z,7246.55,8218.38,North,Sarah Brown,Team Gamma,Non-Profit
+2022-08-04,Product Z,-1775.81,-1687.87,North,Mike Johnson,Team Alpha,Individual
+2022-08-05,Product X,2020.56,2055.88,East,Jane Doe,Team Beta,Small Business
+2022-08-06,Product W,-26.88,-25.74,West,Mike Johnson,Team Beta,Corporate
+2022-08-07,Product X,-2591.32,-2601.19,West,Jane Doe,Team Beta,Government
+2022-08-08,Product Z,13461.37,15616.49,East,Mike Johnson,Team Gamma,Small Business
+2022-08-09,Product X,-7656.07,-6343.45,North,Sarah Brown,Team Gamma,Individual
+2022-08-10,Product Y,706.02,799.85,East,Mike Johnson,Team Alpha,Enterprise
+2022-08-11,Product Z,4837.97,5448.42,North,Jane Doe,Team Alpha,Enterprise
+2022-08-12,Product X,5195.35,4950.47,East,Sarah Brown,Team Gamma,Enterprise
+2022-08-13,Product X,-939.75,-926.97,East,Jane Doe,Team Beta,Small Business
+2022-08-14,Product X,4818.45,4918.26,South,Jane Doe,Team Gamma,Small Business
+2022-08-15,Product Z,7464.19,7662.4,East,Mike Johnson,Team Alpha,Individual
+2022-08-16,Product X,1911.63,1946.0,North,Mike Johnson,Team Gamma,Education
+2022-08-17,Product Y,17764.52,15162.87,West,Sarah Brown,Team Gamma,Enterprise
+2022-08-18,Product X,-3905.36,-3955.56,South,Jane Doe,Team Beta,Small Business
+2022-08-19,Product X,13643.83,15765.95,North,Jane Doe,Team Alpha,Individual
+2022-08-20,Product Y,2405.42,2390.58,North,Jane Doe,Team Beta,Enterprise
+2022-08-21,Product V,8052.93,7957.63,South,Mike Johnson,Team Alpha,Enterprise
+2022-08-22,Product W,7600.51,7486.63,West,Sarah Brown,Team Alpha,Government
+2022-08-23,Product Z,2457.81,2489.56,West,Mike Johnson,Team Beta,Education
+2022-08-24,Product V,8215.82,8110.89,East,Mike Johnson,Team Gamma,Enterprise
+2022-08-25,Product W,8074.08,7316.01,North,John Smith,Team Alpha,Education
+2022-08-26,Product W,17643.86,14978.59,South,Sarah Brown,Team Alpha,Startup
+2022-08-27,Product Y,8097.61,8771.62,North,Mike Johnson,Team Gamma,Education
+2022-08-28,Product X,10175.71,10072.29,North,John Smith,Team Alpha,Small Business
+2022-08-29,Product V,17992.38,16432.71,West,Jane Doe,Team Gamma,Government
+2022-08-30,Product Z,11788.98,12083.26,West,Mike Johnson,Team Alpha,Education
+2022-08-31,Product Z,23019.77,25647.65,North,John Smith,Team Beta,Small Business
+2022-09-01,Product V,2985.76,2938.76,South,Sarah Brown,Team Gamma,Non-Profit
+2022-09-02,Product X,-3557.61,-3760.44,East,John Smith,Team Gamma,Enterprise
+2022-09-03,Product Y,5026.59,5529.7,South,John Smith,Team Beta,Small Business
+2022-09-04,Product Z,10048.58,10379.26,South,Sarah Brown,Team Beta,Corporate
+2022-09-05,Product W,13580.9,13698.01,East,Mike Johnson,Team Beta,Small Business
+2022-09-06,Product Y,2085.59,2351.69,South,Jane Doe,Team Gamma,Education
+2022-09-07,Product V,-444.98,-499.25,North,Mike Johnson,Team Alpha,Enterprise
+2022-09-08,Product Y,3437.27,2911.14,South,Mike Johnson,Team Alpha,Individual
+2022-09-09,Product W,13737.79,13301.22,East,Jane Doe,Team Beta,Individual
+2022-09-10,Product X,9122.63,9711.94,East,Sarah Brown,Team Alpha,Government
+2022-09-11,Product V,4415.64,4435.23,East,John Smith,Team Alpha,Government
+2022-09-12,Product Y,4852.94,4990.16,West,Mike Johnson,Team Gamma,Startup
+2022-09-13,Product Z,4390.47,3944.7,South,Jane Doe,Team Alpha,Education
+2022-09-14,Product V,-4863.47,-4982.1,East,Mike Johnson,Team Alpha,Individual
+2022-09-15,Product V,15710.9,17946.04,East,John Smith,Team Beta,Enterprise
+2022-09-16,Product W,17011.24,18414.87,North,Jane Doe,Team Beta,Startup
+2022-09-17,Product W,14506.55,14055.65,North,Jane Doe,Team Gamma,Non-Profit
+2022-09-18,Product Z,6430.65,6379.82,East,John Smith,Team Beta,Individual
+2022-09-19,Product Z,7576.28,8610.17,East,Mike Johnson,Team Gamma,Corporate
+2022-09-20,Product W,-1178.64,-1156.39,East,Sarah Brown,Team Gamma,Startup
+2022-09-21,Product W,11111.59,10817.16,South,Mike Johnson,Team Beta,Non-Profit
+2022-09-22,Product Y,-1675.23,-1624.58,East,Sarah Brown,Team Beta,Startup
+2022-09-23,Product Z,9299.85,9165.13,North,Jane Doe,Team Beta,Corporate
+2022-09-24,Product V,5205.97,4980.97,North,Jane Doe,Team Gamma,Corporate
+2022-09-25,Product W,8961.58,9479.29,West,Jane Doe,Team Beta,Individual
+2022-09-26,Product X,12887.3,12189.6,North,Mike Johnson,Team Gamma,Individual
+2022-09-27,Product Z,7540.93,8601.18,East,John Smith,Team Alpha,Enterprise
+2022-09-28,Product Y,-2739.08,-3057.49,North,Sarah Brown,Team Beta,Corporate
+2022-09-29,Product Y,12530.36,11950.65,South,Sarah Brown,Team Gamma,Education
+2022-09-30,Product X,6091.52,6390.04,South,Jane Doe,Team Gamma,Education
+2022-10-01,Product W,9082.0,8811.07,East,Mike Johnson,Team Gamma,Corporate
+2022-10-02,Product Z,6778.01,7240.4,West,Sarah Brown,Team Beta,Small Business
+2022-10-03,Product V,13658.58,13216.97,North,Sarah Brown,Team Alpha,Education
+2022-10-04,Product Y,11402.46,10547.48,East,Mike Johnson,Team Beta,Startup
+2022-10-05,Product X,13213.33,12939.19,South,Mike Johnson,Team Alpha,Non-Profit
+2022-10-06,Product V,9671.36,8913.0,West,Jane Doe,Team Alpha,Individual
+2022-10-07,Product V,9245.02,9473.93,South,Mike Johnson,Team Gamma,Non-Profit
+2022-10-08,Product Z,6649.28,7173.67,West,Jane Doe,Team Alpha,Non-Profit
+2022-10-09,Product W,9294.56,8689.48,West,Mike Johnson,Team Alpha,Corporate
+2022-10-10,Product X,-1678.29,-1748.94,North,Mike Johnson,Team Alpha,Education
+2022-10-11,Product V,-1611.11,-1470.1,North,Sarah Brown,Team Beta,Startup
+2022-10-12,Product X,6816.06,6872.28,East,Sarah Brown,Team Alpha,Education
+2022-10-13,Product W,3671.89,3820.85,South,Sarah Brown,Team Beta,Enterprise
+2022-10-14,Product X,17553.55,17899.97,North,Sarah Brown,Team Alpha,Education
+2022-10-15,Product Z,1552.6,1635.35,North,Sarah Brown,Team Beta,Corporate
+2022-10-16,Product W,4891.4,4940.03,East,Sarah Brown,Team Gamma,Education
+2022-10-17,Product Y,20513.8,20944.5,West,Mike Johnson,Team Alpha,Corporate
+2022-10-18,Product V,-1433.24,-1241.41,West,John Smith,Team Alpha,Government
+2022-10-19,Product X,11851.59,11636.74,West,John Smith,Team Gamma,Government
+2022-10-20,Product Z,7570.29,7950.56,East,John Smith,Team Gamma,Government
+2022-10-21,Product X,2496.37,2486.9,East,Jane Doe,Team Gamma,Small Business
+2022-10-22,Product Y,271.16,223.71,West,John Smith,Team Gamma,Individual
+2022-10-23,Product W,17284.88,16217.87,West,Mike Johnson,Team Beta,Government
+2022-10-24,Product Z,5601.72,5141.62,West,John Smith,Team Beta,Government
+2022-10-25,Product W,17081.88,17455.63,South,Sarah Brown,Team Gamma,Non-Profit
+2022-10-26,Product V,3713.88,3644.28,West,Jane Doe,Team Alpha,Education
+2022-10-27,Product Y,9347.81,9165.63,North,Mike Johnson,Team Alpha,Enterprise
+2022-10-28,Product W,8156.96,7937.92,North,Jane Doe,Team Gamma,Government
+2022-10-29,Product W,6289.79,6197.73,South,Jane Doe,Team Beta,Education
+2022-10-30,Product W,-843.61,-848.75,East,Mike Johnson,Team Alpha,Corporate
+2022-10-31,Product W,7183.76,7070.27,West,Jane Doe,Team Alpha,Government
+2022-11-01,Product X,3340.12,3460.22,East,Sarah Brown,Team Alpha,Individual
+2022-11-02,Product W,5206.24,5321.84,West,Jane Doe,Team Gamma,Individual
+2022-11-03,Product V,6259.09,5750.81,West,Sarah Brown,Team Alpha,Government
+2022-11-04,Product Y,3359.86,3261.85,North,Sarah Brown,Team Alpha,Enterprise
+2022-11-05,Product W,4819.7,4880.28,West,Jane Doe,Team Beta,Government
+2022-11-06,Product Z,10674.14,10763.55,North,Mike Johnson,Team Gamma,Small Business
+2022-11-07,Product X,20470.0,19447.45,East,Mike Johnson,Team Gamma,Education
+2022-11-08,Product Y,818.16,777.88,South,Jane Doe,Team Alpha,Corporate
+2022-11-09,Product W,4294.01,4298.66,West,Sarah Brown,Team Alpha,Individual
+2022-11-10,Product W,9253.2,8113.88,North,Mike Johnson,Team Gamma,Startup
+2022-11-11,Product X,-1745.88,-1741.72,West,Jane Doe,Team Gamma,Startup
+2022-11-12,Product Y,-2351.96,-2400.81,East,John Smith,Team Beta,Government
+2022-11-13,Product W,12175.76,11070.23,South,John Smith,Team Beta,Education
+2022-11-14,Product Z,17654.28,19543.74,North,John Smith,Team Beta,Corporate
+2022-11-15,Product Y,3585.13,3325.34,North,John Smith,Team Gamma,Small Business
+2022-11-16,Product Z,18692.93,20102.87,North,Mike Johnson,Team Beta,Government
+2022-11-17,Product X,11457.2,11896.67,South,Jane Doe,Team Gamma,Enterprise
+2022-11-18,Product W,6334.64,6435.8,East,Jane Doe,Team Alpha,Startup
+2022-11-19,Product Z,10442.22,8852.99,East,Mike Johnson,Team Alpha,Startup
+2022-11-20,Product Y,11702.92,11520.04,East,Jane Doe,Team Beta,Small Business
+2022-11-21,Product X,15295.93,15544.14,South,John Smith,Team Alpha,Non-Profit
+2022-11-22,Product Y,4876.87,4428.93,North,Mike Johnson,Team Gamma,Education
+2022-11-23,Product X,27539.55,28601.07,North,Mike Johnson,Team Gamma,Non-Profit
+2022-11-24,Product W,7738.16,7770.41,East,Jane Doe,Team Gamma,Government
+2022-11-25,Product W,10683.96,11092.12,West,Jane Doe,Team Beta,Corporate
+2022-11-26,Product Z,8731.55,8805.41,South,Sarah Brown,Team Beta,Education
+2022-11-27,Product V,-2681.68,-2914.83,East,Mike Johnson,Team Gamma,Corporate
+2022-11-28,Product X,14168.17,15516.72,West,Jane Doe,Team Gamma,Non-Profit
+2022-11-29,Product X,-695.07,-657.67,East,Mike Johnson,Team Gamma,Education
+2022-11-30,Product Z,9235.93,9014.04,South,Mike Johnson,Team Gamma,Small Business
+2022-12-01,Product V,7351.81,7967.55,East,Jane Doe,Team Beta,Small Business
+2022-12-02,Product V,-648.53,-727.51,North,John Smith,Team Beta,Small Business
+2022-12-03,Product Y,-5062.96,-5630.07,West,Mike Johnson,Team Gamma,Government
+2022-12-04,Product V,-6001.39,-6873.61,South,Mike Johnson,Team Gamma,Non-Profit
+2022-12-05,Product Z,2476.66,2702.67,West,Jane Doe,Team Alpha,Government
+2022-12-06,Product W,11330.01,9683.29,South,Mike Johnson,Team Beta,Individual
+2022-12-07,Product X,-3282.89,-3644.11,South,Sarah Brown,Team Alpha,Individual
+2022-12-08,Product Z,9194.99,8188.8,South,Jane Doe,Team Beta,Education
+2022-12-09,Product V,7975.64,8099.83,South,Mike Johnson,Team Alpha,Startup
+2022-12-10,Product W,11618.88,11651.35,East,Mike Johnson,Team Beta,Individual
+2022-12-11,Product V,15573.74,16865.24,West,Mike Johnson,Team Beta,Startup
+2022-12-12,Product Z,652.8,706.48,West,Jane Doe,Team Beta,Startup
+2022-12-13,Product Z,2650.16,2686.99,North,Sarah Brown,Team Beta,Small Business
+2022-12-14,Product Z,-5299.58,-5153.06,East,Mike Johnson,Team Alpha,Enterprise
+2022-12-15,Product V,10654.47,11562.4,West,Sarah Brown,Team Gamma,Enterprise
+2022-12-16,Product V,10179.5,9615.63,South,Sarah Brown,Team Beta,Small Business
+2022-12-17,Product W,19741.33,18353.18,South,Mike Johnson,Team Alpha,Small Business
+2022-12-18,Product W,11895.46,11065.88,West,John Smith,Team Alpha,Education
+2022-12-19,Product Y,9612.27,8976.99,East,Mike Johnson,Team Alpha,Non-Profit
+2022-12-20,Product V,14319.28,13905.4,East,Mike Johnson,Team Alpha,Government
+2022-12-21,Product V,4942.99,4803.26,East,John Smith,Team Beta,Startup
+2022-12-22,Product Z,-2848.61,-2940.88,North,John Smith,Team Alpha,Startup
+2022-12-23,Product V,5832.86,6583.52,South,Jane Doe,Team Alpha,Non-Profit
+2022-12-24,Product W,2483.8,2690.93,South,Mike Johnson,Team Gamma,Education
+2022-12-25,Product Y,846.58,838.07,West,Jane Doe,Team Gamma,Government
+2022-12-26,Product Y,-1566.7,-1756.4,South,Mike Johnson,Team Beta,Small Business
+2022-12-27,Product W,12546.94,12765.49,East,Jane Doe,Team Beta,Education
+2022-12-28,Product X,930.42,804.75,South,Jane Doe,Team Beta,Non-Profit
+2022-12-29,Product Z,17164.73,15308.67,North,Jane Doe,Team Beta,Enterprise
+2022-12-30,Product V,7382.32,6725.23,North,John Smith,Team Beta,Enterprise
+2022-12-31,Product V,11686.98,11934.79,East,Sarah Brown,Team Gamma,Education
+2023-01-01,Product Z,-1849.99,-1910.52,North,Jane Doe,Team Gamma,Government
+2023-01-02,Product W,20798.95,22676.36,South,Mike Johnson,Team Gamma,Non-Profit
+2023-01-03,Product V,2414.47,2600.75,South,John Smith,Team Gamma,Enterprise
+2023-01-04,Product W,13381.13,15723.1,West,Mike Johnson,Team Alpha,Government
+2023-01-05,Product Y,5423.37,5900.24,South,Sarah Brown,Team Alpha,Enterprise
+2023-01-06,Product W,10463.89,10396.0,North,Sarah Brown,Team Gamma,Corporate
+2023-01-07,Product W,14416.58,14983.47,South,Mike Johnson,Team Beta,Individual
+2023-01-08,Product W,19797.29,19597.81,East,John Smith,Team Gamma,Small Business
+2023-01-09,Product V,11990.7,12992.02,North,John Smith,Team Beta,Small Business
+2023-01-10,Product Y,12574.28,12529.25,South,Sarah Brown,Team Beta,Individual
+2023-01-11,Product Y,2804.78,3123.5,South,Jane Doe,Team Gamma,Individual
+2023-01-12,Product X,6123.24,6177.16,North,Jane Doe,Team Alpha,Education
+2023-01-13,Product X,9639.29,9413.31,East,Jane Doe,Team Beta,Individual
+2023-01-14,Product Y,-10913.27,-12532.11,West,Jane Doe,Team Alpha,Startup
+2023-01-15,Product Y,-5227.96,-5425.05,East,John Smith,Team Alpha,Individual
+2023-01-16,Product V,-1010.5,-981.03,South,John Smith,Team Alpha,Education
+2023-01-17,Product X,9000.92,9839.08,North,Jane Doe,Team Gamma,Startup
+2023-01-18,Product X,4542.63,4109.22,West,Mike Johnson,Team Gamma,Small Business
+2023-01-19,Product W,-3843.52,-4439.83,East,John Smith,Team Beta,Education
+2023-01-20,Product Z,-5817.79,-6209.75,North,John Smith,Team Beta,Enterprise
+2023-01-21,Product X,1545.42,1623.34,North,Sarah Brown,Team Alpha,Education
+2023-01-22,Product Z,4346.47,4157.68,North,John Smith,Team Gamma,Small Business
+2023-01-23,Product V,-4231.97,-4053.86,North,John Smith,Team Gamma,Enterprise
+2023-01-24,Product X,8693.85,7415.0,East,Sarah Brown,Team Alpha,Small Business
+2023-01-25,Product Y,6988.9,7381.19,East,Mike Johnson,Team Gamma,Enterprise
+2023-01-26,Product Y,10599.73,11410.33,West,Mike Johnson,Team Alpha,Corporate
+2023-01-27,Product Z,2684.53,2501.44,West,Sarah Brown,Team Gamma,Education
+2023-01-28,Product W,18518.69,18649.66,South,Sarah Brown,Team Beta,Enterprise
+2023-01-29,Product Z,9394.02,9440.46,North,John Smith,Team Gamma,Individual
+2023-01-30,Product V,6106.68,6345.01,South,Mike Johnson,Team Beta,Government
+2023-01-31,Product X,3023.33,3012.04,North,Mike Johnson,Team Beta,Government
+2023-02-01,Product W,21587.91,20486.33,North,Mike Johnson,Team Alpha,Government
+2023-02-02,Product Y,5713.1,5419.29,West,Jane Doe,Team Gamma,Startup
+2023-02-03,Product Y,9183.8,9149.97,North,John Smith,Team Alpha,Government
+2023-02-04,Product W,9587.13,9425.3,South,Jane Doe,Team Beta,Non-Profit
+2023-02-05,Product Y,8938.98,8939.3,South,Mike Johnson,Team Gamma,Corporate
+2023-02-06,Product W,6126.06,5827.93,South,Sarah Brown,Team Beta,Small Business
+2023-02-07,Product X,8067.79,7994.66,South,Sarah Brown,Team Gamma,Government
+2023-02-08,Product Y,273.09,273.44,South,John Smith,Team Beta,Enterprise
+2023-02-09,Product Y,-592.05,-675.68,West,John Smith,Team Gamma,Startup
+2023-02-10,Product V,1502.3,1315.84,East,John Smith,Team Alpha,Non-Profit
+2023-02-11,Product V,-1146.56,-1228.03,North,Sarah Brown,Team Beta,Individual
+2023-02-12,Product Z,13958.82,12350.29,East,Jane Doe,Team Gamma,Non-Profit
+2023-02-13,Product V,15438.77,16374.9,East,Mike Johnson,Team Gamma,Individual
+2023-02-14,Product W,9737.63,10350.72,East,Sarah Brown,Team Alpha,Non-Profit
+2023-02-15,Product W,-115.62,-124.33,East,Jane Doe,Team Alpha,Government
+2023-02-16,Product X,15179.49,14473.59,East,Sarah Brown,Team Gamma,Non-Profit
+2023-02-17,Product V,9863.62,11188.35,West,John Smith,Team Gamma,Small Business
+2023-02-18,Product W,5348.94,6018.41,North,Jane Doe,Team Beta,Non-Profit
+2023-02-19,Product V,14571.0,14583.76,North,Jane Doe,Team Alpha,Government
+2023-02-20,Product V,6722.33,6219.17,East,Sarah Brown,Team Gamma,Startup
+2023-02-21,Product V,7270.63,6205.29,East,Mike Johnson,Team Beta,Education
+2023-02-22,Product Y,2074.87,2112.75,West,John Smith,Team Alpha,Enterprise
+2023-02-23,Product Z,3111.6,3639.48,North,Sarah Brown,Team Alpha,Education
+2023-02-24,Product X,6083.26,6068.36,East,Sarah Brown,Team Beta,Non-Profit
+2023-02-25,Product V,14490.0,15259.22,North,Sarah Brown,Team Gamma,Small Business
+2023-02-26,Product Y,1214.39,1383.55,North,Jane Doe,Team Alpha,Education
+2023-02-27,Product W,6916.36,7839.9,South,Jane Doe,Team Alpha,Non-Profit
+2023-02-28,Product V,-3720.67,-3886.5,East,Sarah Brown,Team Alpha,Government
+2023-03-01,Product Z,5189.94,5983.81,East,John Smith,Team Beta,Startup
+2023-03-02,Product Z,11959.05,11732.31,South,Mike Johnson,Team Beta,Startup
+2023-03-03,Product Y,5308.95,5630.21,West,Sarah Brown,Team Beta,Government
+2023-03-04,Product V,10710.38,9788.1,East,Jane Doe,Team Gamma,Government
+2023-03-05,Product Y,2102.73,1897.21,South,John Smith,Team Gamma,Non-Profit
+2023-03-06,Product Y,8796.84,8989.3,North,Mike Johnson,Team Alpha,Small Business
+2023-03-07,Product X,-474.31,-486.98,South,John Smith,Team Beta,Non-Profit
+2023-03-08,Product Y,7671.36,8376.45,North,John Smith,Team Alpha,Small Business
+2023-03-09,Product Y,6905.53,5894.86,East,Mike Johnson,Team Beta,Individual
+2023-03-10,Product V,9856.28,9691.4,East,Sarah Brown,Team Alpha,Enterprise
+2023-03-11,Product Z,12107.29,11168.15,East,Jane Doe,Team Beta,Government
+2023-03-12,Product V,6477.18,6244.68,South,Jane Doe,Team Alpha,Individual
+2023-03-13,Product X,6256.75,6080.65,North,Sarah Brown,Team Alpha,Small Business
+2023-03-14,Product V,10391.12,10821.54,South,Jane Doe,Team Alpha,Education
+2023-03-15,Product Z,14688.1,12280.58,North,Jane Doe,Team Alpha,Government
+2023-03-16,Product W,7805.51,7395.83,South,John Smith,Team Alpha,Small Business
+2023-03-17,Product Y,1645.12,1701.03,West,Sarah Brown,Team Alpha,Corporate
+2023-03-18,Product Z,10486.3,10625.92,South,Jane Doe,Team Gamma,Education
+2023-03-19,Product Y,18617.71,19535.3,South,John Smith,Team Beta,Enterprise
+2023-03-20,Product V,1968.18,2065.31,East,Jane Doe,Team Alpha,Non-Profit
+2023-03-21,Product X,3941.17,3784.07,West,John Smith,Team Beta,Individual
+2023-03-22,Product Z,8222.35,8229.15,East,Sarah Brown,Team Alpha,Education
+2023-03-23,Product Y,13014.77,14764.34,East,Sarah Brown,Team Alpha,Small Business
+2023-03-24,Product Y,12135.64,11455.92,South,Jane Doe,Team Gamma,Small Business
+2023-03-25,Product V,18490.9,20725.89,North,Mike Johnson,Team Beta,Corporate
+2023-03-26,Product Y,781.09,681.66,South,Sarah Brown,Team Beta,Non-Profit
+2023-03-27,Product Y,13113.19,14496.89,North,Mike Johnson,Team Alpha,Education
+2023-03-28,Product W,4177.72,4253.55,North,Jane Doe,Team Beta,Government
+2023-03-29,Product W,7331.14,7931.51,South,Jane Doe,Team Beta,Startup
+2023-03-30,Product Y,-1374.53,-1370.82,South,Mike Johnson,Team Beta,Individual
+2023-03-31,Product Y,6359.94,5706.57,North,Sarah Brown,Team Alpha,Individual
+2023-04-01,Product Z,6952.85,7335.45,West,Sarah Brown,Team Alpha,Enterprise
+2023-04-02,Product W,1549.8,1398.29,East,John Smith,Team Alpha,Individual
+2023-04-03,Product W,15456.09,17629.79,South,Sarah Brown,Team Beta,Education
+2023-04-04,Product Z,13650.55,13512.44,East,Mike Johnson,Team Alpha,Education
+2023-04-05,Product Z,9412.19,8742.12,North,Jane Doe,Team Alpha,Corporate
+2023-04-06,Product W,9412.53,9390.66,North,Sarah Brown,Team Gamma,Startup
+2023-04-07,Product Y,16383.61,16285.8,East,John Smith,Team Gamma,Corporate
+2023-04-08,Product W,5188.89,5326.01,North,Jane Doe,Team Beta,Individual
+2023-04-09,Product Z,1353.41,1227.49,South,Jane Doe,Team Gamma,Corporate
+2023-04-10,Product V,-2205.24,-2550.71,North,Jane Doe,Team Alpha,Corporate
+2023-04-11,Product Y,927.03,948.11,South,Sarah Brown,Team Alpha,Corporate
+2023-04-12,Product Y,4365.65,4764.52,South,Jane Doe,Team Beta,Education
+2023-04-13,Product Z,506.58,520.02,North,Jane Doe,Team Gamma,Individual
+2023-04-14,Product Z,10003.26,10686.44,West,John Smith,Team Alpha,Education
+2023-04-15,Product Y,2546.9,2290.48,South,Sarah Brown,Team Gamma,Education
+2023-04-16,Product W,8086.01,8960.55,East,Mike Johnson,Team Gamma,Individual
+2023-04-17,Product Z,10339.49,11095.37,North,Jane Doe,Team Gamma,Education
+2023-04-18,Product X,6396.08,7083.26,South,John Smith,Team Gamma,Non-Profit
+2023-04-19,Product W,12745.43,13212.11,West,Sarah Brown,Team Gamma,Enterprise
+2023-04-20,Product Z,13229.76,13985.33,North,Jane Doe,Team Alpha,Education
+2023-04-21,Product Y,-1635.83,-1490.68,East,Jane Doe,Team Gamma,Individual
+2023-04-22,Product Z,24684.96,25302.11,East,John Smith,Team Alpha,Government
+2023-04-23,Product W,9213.72,10031.44,South,Jane Doe,Team Beta,Enterprise
+2023-04-24,Product X,22826.23,19217.46,West,Sarah Brown,Team Gamma,Education
+2023-04-25,Product Y,10208.37,10796.14,West,John Smith,Team Alpha,Government
+2023-04-26,Product Z,17737.24,16652.74,East,John Smith,Team Beta,Small Business
+2023-04-27,Product Z,6877.16,7242.22,North,Sarah Brown,Team Alpha,Education
+2023-04-28,Product Z,16838.55,17571.34,East,Sarah Brown,Team Gamma,Enterprise
+2023-04-29,Product Z,2105.5,2423.22,North,John Smith,Team Alpha,Enterprise
+2023-04-30,Product W,4931.74,5522.59,North,Sarah Brown,Team Beta,Education
+2023-05-01,Product Y,-7898.78,-7784.98,North,Jane Doe,Team Alpha,Startup
+2023-05-02,Product Z,6952.25,7354.76,East,Mike Johnson,Team Beta,Non-Profit
+2023-05-03,Product Z,2194.15,2181.62,South,John Smith,Team Beta,Startup
+2023-05-04,Product V,17049.21,17561.97,North,Sarah Brown,Team Beta,Government
+2023-05-05,Product W,10781.02,10696.75,East,Jane Doe,Team Beta,Corporate
+2023-05-06,Product W,3893.39,4169.33,West,Mike Johnson,Team Alpha,Education
+2023-05-07,Product Y,-271.53,-263.9,West,Mike Johnson,Team Gamma,Small Business
+2023-05-08,Product Z,224.4,220.94,East,Jane Doe,Team Gamma,Enterprise
+2023-05-09,Product W,429.83,425.17,North,Mike Johnson,Team Beta,Startup
+2023-05-10,Product W,7601.99,8033.12,North,John Smith,Team Beta,Individual
+2023-05-11,Product X,16805.55,17562.23,East,Mike Johnson,Team Beta,Enterprise
+2023-05-12,Product X,11220.44,10907.03,East,John Smith,Team Gamma,Startup
+2023-05-13,Product X,13791.57,12734.4,East,Mike Johnson,Team Gamma,Government
+2023-05-14,Product V,6139.57,5990.37,South,John Smith,Team Alpha,Non-Profit
+2023-05-15,Product V,-1807.3,-1730.37,North,John Smith,Team Beta,Startup
+2023-05-16,Product Z,14351.48,14112.57,North,Jane Doe,Team Beta,Enterprise
+2023-05-17,Product Y,14741.38,15200.9,East,Mike Johnson,Team Gamma,Individual
+2023-05-18,Product W,-6563.4,-6724.76,North,Jane Doe,Team Alpha,Corporate
+2023-05-19,Product V,-409.48,-430.67,South,John Smith,Team Gamma,Government
+2023-05-20,Product Y,-2862.49,-2941.37,South,Jane Doe,Team Beta,Education
+2023-05-21,Product X,16268.55,17892.36,East,Jane Doe,Team Gamma,Non-Profit
+2023-05-22,Product Z,-2565.89,-2580.48,West,Sarah Brown,Team Beta,Startup
+2023-05-23,Product Z,17197.07,20073.91,South,Jane Doe,Team Alpha,Education
+2023-05-24,Product W,13171.62,13113.39,East,John Smith,Team Beta,Startup
+2023-05-25,Product Z,7069.34,6973.83,East,Mike Johnson,Team Alpha,Corporate
+2023-05-26,Product X,4228.6,4383.25,South,John Smith,Team Alpha,Enterprise
+2023-05-27,Product Z,-2623.99,-2347.19,South,Mike Johnson,Team Beta,Non-Profit
+2023-05-28,Product W,7915.76,9017.36,West,John Smith,Team Gamma,Small Business
+2023-05-29,Product Z,15486.8,17147.23,South,John Smith,Team Gamma,Corporate
+2023-05-30,Product Z,7733.68,7616.41,West,Sarah Brown,Team Gamma,Individual
+2023-05-31,Product W,523.72,511.99,North,Mike Johnson,Team Beta,Startup
+2023-06-01,Product W,15570.89,17780.85,North,Jane Doe,Team Beta,Government
+2023-06-02,Product Z,2656.83,3087.8,West,Mike Johnson,Team Gamma,Government
+2023-06-03,Product X,16716.6,15668.2,South,Mike Johnson,Team Gamma,Individual
+2023-06-04,Product Y,10475.1,11255.78,North,John Smith,Team Gamma,Corporate
+2023-06-05,Product Z,6030.52,5926.3,West,Jane Doe,Team Beta,Corporate
+2023-06-06,Product Y,-436.86,-430.41,North,Mike Johnson,Team Gamma,Non-Profit
+2023-06-07,Product V,4324.27,4025.36,North,John Smith,Team Gamma,Non-Profit
+2023-06-08,Product Z,1185.21,1346.71,West,Mike Johnson,Team Alpha,Small Business
+2023-06-09,Product Y,24781.74,27785.5,West,Sarah Brown,Team Alpha,Small Business
+2023-06-10,Product V,14303.57,14399.68,East,Mike Johnson,Team Gamma,Enterprise
+2023-06-11,Product Z,7366.77,7806.86,North,Jane Doe,Team Gamma,Government
+2023-06-12,Product Z,7634.95,7789.79,West,Jane Doe,Team Beta,Government
+2023-06-13,Product V,10811.49,10381.64,South,Jane Doe,Team Beta,Individual
+2023-06-14,Product X,18512.05,18758.98,South,Sarah Brown,Team Gamma,Corporate
+2023-06-15,Product Z,2419.76,2779.6,East,Mike Johnson,Team Alpha,Education
+2023-06-16,Product V,10849.92,12677.07,North,Mike Johnson,Team Gamma,Small Business
+2023-06-17,Product X,8779.56,8702.75,North,Mike Johnson,Team Beta,Corporate
+2023-06-18,Product W,7283.53,8020.14,North,John Smith,Team Beta,Individual
+2023-06-19,Product V,13627.73,13300.64,South,Sarah Brown,Team Alpha,Small Business
+2023-06-20,Product W,13584.1,15610.79,East,Mike Johnson,Team Gamma,Individual
+2023-06-21,Product Z,15755.4,17490.21,West,John Smith,Team Alpha,Corporate
+2023-06-22,Product V,-367.85,-367.28,East,Mike Johnson,Team Alpha,Government
+2023-06-23,Product W,-505.58,-524.34,South,Mike Johnson,Team Alpha,Corporate
+2023-06-24,Product W,-2455.82,-2263.03,South,Jane Doe,Team Gamma,Non-Profit
+2023-06-25,Product X,6653.38,6381.58,East,Jane Doe,Team Gamma,Education
+2023-06-26,Product X,16739.36,17671.62,North,Mike Johnson,Team Gamma,Individual
+2023-06-27,Product Z,13019.15,12729.9,East,Mike Johnson,Team Beta,Individual
+2023-06-28,Product W,15950.84,12947.02,West,John Smith,Team Gamma,Individual
+2023-06-29,Product W,10355.96,10798.35,South,Mike Johnson,Team Gamma,Small Business
+2023-06-30,Product Y,17121.66,16091.17,North,Jane Doe,Team Alpha,Startup
+2023-07-01,Product Z,15503.05,13110.16,South,Jane Doe,Team Beta,Enterprise
+2023-07-02,Product X,13406.36,12154.81,West,Jane Doe,Team Gamma,Enterprise
+2023-07-03,Product Z,-5.36,-4.38,North,Sarah Brown,Team Gamma,Corporate
+2023-07-04,Product V,-5162.89,-4688.43,East,John Smith,Team Beta,Small Business
+2023-07-05,Product Y,693.01,673.5,East,Jane Doe,Team Beta,Individual
+2023-07-06,Product Y,3838.19,3288.4,North,John Smith,Team Gamma,Education
+2023-07-07,Product Y,-3588.39,-3853.13,North,Sarah Brown,Team Beta,Enterprise
+2023-07-08,Product Z,12618.0,12824.76,South,Jane Doe,Team Gamma,Enterprise
+2023-07-09,Product X,10763.15,10138.8,East,Jane Doe,Team Gamma,Non-Profit
+2023-07-10,Product X,15669.09,15024.76,North,John Smith,Team Gamma,Small Business
+2023-07-11,Product W,17054.37,17263.99,North,Mike Johnson,Team Beta,Education
+2023-07-12,Product V,8667.87,9490.18,South,John Smith,Team Alpha,Education
+2023-07-13,Product V,5184.66,5010.13,North,John Smith,Team Alpha,Individual
+2023-07-14,Product X,3850.06,3886.03,West,Mike Johnson,Team Gamma,Small Business
+2023-07-15,Product Y,-1738.51,-1736.13,West,John Smith,Team Alpha,Corporate
+2023-07-16,Product V,17600.0,16479.13,East,Sarah Brown,Team Beta,Corporate
+2023-07-17,Product Y,1668.88,1588.07,East,Jane Doe,Team Alpha,Government
+2023-07-18,Product W,5868.76,6631.71,East,Sarah Brown,Team Gamma,Government
+2023-07-19,Product Y,20645.61,20508.01,West,Jane Doe,Team Alpha,Small Business
+2023-07-20,Product Y,-1963.31,-1932.08,East,Jane Doe,Team Gamma,Startup
+2023-07-21,Product Y,-5927.99,-5522.51,South,Sarah Brown,Team Gamma,Small Business
+2023-07-22,Product X,12466.35,11671.57,East,Sarah Brown,Team Gamma,Corporate
+2023-07-23,Product Z,10967.48,10892.77,North,Sarah Brown,Team Alpha,Small Business
+2023-07-24,Product Z,-1691.13,-1552.95,East,Mike Johnson,Team Beta,Education
+2023-07-25,Product W,19691.7,19352.34,West,Jane Doe,Team Alpha,Enterprise
+2023-07-26,Product Y,7253.06,7326.23,West,Mike Johnson,Team Alpha,Education
+2023-07-27,Product X,17961.75,15591.4,South,John Smith,Team Gamma,Small Business
+2023-07-28,Product W,6527.79,6284.91,North,Jane Doe,Team Gamma,Enterprise
+2023-07-29,Product W,14110.42,11788.61,North,Mike Johnson,Team Alpha,Individual
+2023-07-30,Product Z,11691.54,12429.1,South,Jane Doe,Team Beta,Non-Profit
+2023-07-31,Product Z,5169.64,5437.08,East,Mike Johnson,Team Alpha,Individual
+2023-08-01,Product X,7335.85,8512.04,North,Sarah Brown,Team Gamma,Education
+2023-08-02,Product W,10607.14,11432.78,East,John Smith,Team Beta,Non-Profit
+2023-08-03,Product Z,9129.31,7750.7,South,Mike Johnson,Team Beta,Individual
+2023-08-04,Product V,15779.53,15370.13,South,John Smith,Team Gamma,Startup
+2023-08-05,Product Z,10926.34,9310.39,East,Sarah Brown,Team Alpha,Education
+2023-08-06,Product W,-2739.11,-2746.21,East,Sarah Brown,Team Alpha,Non-Profit
+2023-08-07,Product Z,5692.91,4990.53,West,Mike Johnson,Team Beta,Small Business
+2023-08-08,Product Z,6632.83,7223.69,South,Mike Johnson,Team Gamma,Education
+2023-08-09,Product V,8216.02,8171.52,North,Mike Johnson,Team Alpha,Government
+2023-08-10,Product Z,9730.26,9587.82,East,Sarah Brown,Team Gamma,Enterprise
+2023-08-11,Product V,9817.12,8522.78,North,Mike Johnson,Team Alpha,Non-Profit
+2023-08-12,Product Z,392.24,394.37,South,Sarah Brown,Team Gamma,Startup
+2023-08-13,Product Z,4237.37,4376.9,East,Sarah Brown,Team Gamma,Small Business
+2023-08-14,Product W,13987.17,13064.35,South,Jane Doe,Team Gamma,Small Business
+2023-08-15,Product V,10659.8,11676.01,East,Mike Johnson,Team Gamma,Education
+2023-08-16,Product Z,10473.68,10342.93,West,John Smith,Team Gamma,Government
+2023-08-17,Product X,11782.74,12102.97,North,Mike Johnson,Team Alpha,Startup
+2023-08-18,Product Y,21877.47,23914.48,South,Sarah Brown,Team Gamma,Enterprise
+2023-08-19,Product Y,10882.27,10116.52,South,Mike Johnson,Team Alpha,Individual
+2023-08-20,Product Y,5756.19,5237.17,East,Jane Doe,Team Alpha,Non-Profit
+2023-08-21,Product V,3661.31,3917.24,East,Mike Johnson,Team Gamma,Education
+2023-08-22,Product V,21976.54,22828.47,West,Jane Doe,Team Gamma,Corporate
+2023-08-23,Product Y,8411.82,8080.35,East,Jane Doe,Team Beta,Individual
+2023-08-24,Product X,9400.0,10362.35,South,Sarah Brown,Team Alpha,Education
+2023-08-25,Product X,8523.07,9539.48,East,Jane Doe,Team Beta,Individual
+2023-08-26,Product X,10030.62,9130.73,North,John Smith,Team Gamma,Individual
+2023-08-27,Product W,-88.67,-90.06,West,Mike Johnson,Team Gamma,Individual
+2023-08-28,Product W,4010.01,4164.33,North,John Smith,Team Gamma,Individual
+2023-08-29,Product V,-3160.8,-3082.47,North,Mike Johnson,Team Beta,Corporate
+2023-08-30,Product Z,-1359.5,-1347.55,East,Mike Johnson,Team Gamma,Individual
+2023-08-31,Product W,3506.6,3690.98,West,Mike Johnson,Team Gamma,Government
+2023-09-01,Product Z,-7858.32,-6591.98,East,Sarah Brown,Team Gamma,Small Business
+2023-09-02,Product V,16783.55,17381.61,East,John Smith,Team Beta,Startup
+2023-09-03,Product W,7619.97,7896.47,East,Mike Johnson,Team Gamma,Government
+2023-09-04,Product V,6435.03,6132.75,East,Sarah Brown,Team Alpha,Startup
+2023-09-05,Product X,1772.76,1732.72,East,Mike Johnson,Team Beta,Small Business
+2023-09-06,Product Z,5707.24,6018.43,North,Mike Johnson,Team Alpha,Government
+2023-09-07,Product V,10059.58,10966.0,East,John Smith,Team Gamma,Corporate
+2023-09-08,Product X,10382.41,10848.22,South,Mike Johnson,Team Gamma,Non-Profit
+2023-09-09,Product V,4026.55,4172.86,South,Mike Johnson,Team Alpha,Small Business
+2023-09-10,Product W,-1615.67,-1544.43,South,Sarah Brown,Team Alpha,Enterprise
+2023-09-11,Product V,11321.31,11135.28,East,Jane Doe,Team Alpha,Corporate
+2023-09-12,Product Y,8810.05,9798.01,South,Sarah Brown,Team Beta,Enterprise
+2023-09-13,Product Z,3551.1,3624.56,East,John Smith,Team Beta,Small Business
+2023-09-14,Product W,14127.37,14898.95,North,Mike Johnson,Team Gamma,Enterprise
+2023-09-15,Product Y,10042.27,10537.43,South,John Smith,Team Alpha,Government
+2023-09-16,Product Z,12566.72,12308.7,North,John Smith,Team Beta,Startup
+2023-09-17,Product V,14970.58,14233.36,North,Jane Doe,Team Beta,Education
+2023-09-18,Product W,12186.09,13257.01,East,Jane Doe,Team Alpha,Corporate
+2023-09-19,Product W,2610.06,2722.39,West,John Smith,Team Gamma,Non-Profit
+2023-09-20,Product X,14183.18,13816.43,North,Jane Doe,Team Gamma,Enterprise
+2023-09-21,Product Z,-3870.12,-3920.94,West,Sarah Brown,Team Beta,Non-Profit
+2023-09-22,Product X,8389.15,7861.18,South,Mike Johnson,Team Alpha,Small Business
+2023-09-23,Product Z,11252.02,12266.76,East,Sarah Brown,Team Alpha,Small Business
+2023-09-24,Product X,7530.63,7158.41,West,Jane Doe,Team Gamma,Small Business
+2023-09-25,Product X,4094.68,3720.54,South,John Smith,Team Gamma,Small Business
+2023-09-26,Product V,4680.08,4216.09,South,John Smith,Team Alpha,Enterprise
+2023-09-27,Product V,8525.46,9679.25,East,Jane Doe,Team Alpha,Non-Profit
+2023-09-28,Product Y,7366.4,7086.89,West,Jane Doe,Team Beta,Government
+2023-09-29,Product V,5155.79,4403.99,West,Jane Doe,Team Beta,Startup
+2023-09-30,Product X,16727.59,18428.71,East,John Smith,Team Alpha,Individual
+2023-10-01,Product W,17985.49,19830.24,North,Mike Johnson,Team Alpha,Small Business
+2023-10-02,Product W,12957.33,12124.53,East,Mike Johnson,Team Alpha,Startup
+2023-10-03,Product X,12309.33,14419.12,North,Mike Johnson,Team Gamma,Individual
+2023-10-04,Product X,10308.0,10384.51,East,Mike Johnson,Team Beta,Individual
+2023-10-05,Product V,17583.78,20729.36,East,Mike Johnson,Team Gamma,Government
+2023-10-06,Product W,-1052.8,-1022.5,South,Sarah Brown,Team Alpha,Small Business
+2023-10-07,Product X,1481.83,1587.63,North,Mike Johnson,Team Gamma,Enterprise
+2023-10-08,Product W,17864.35,18763.17,North,John Smith,Team Alpha,Education
+2023-10-09,Product W,-3337.11,-3342.28,East,Mike Johnson,Team Beta,Corporate
+2023-10-10,Product X,6462.41,6127.22,North,Mike Johnson,Team Alpha,Individual
+2023-10-11,Product X,8515.48,8749.57,West,John Smith,Team Alpha,Small Business
+2023-10-12,Product X,12122.53,11303.7,South,John Smith,Team Alpha,Enterprise
+2023-10-13,Product W,7175.21,7811.85,East,Sarah Brown,Team Gamma,Corporate
+2023-10-14,Product V,4128.45,3987.1,East,Jane Doe,Team Beta,Enterprise
+2023-10-15,Product V,-7347.36,-7365.31,North,Mike Johnson,Team Alpha,Non-Profit
+2023-10-16,Product Y,13740.46,12967.49,West,Mike Johnson,Team Alpha,Education
+2023-10-17,Product W,17378.82,17411.06,West,Sarah Brown,Team Alpha,Non-Profit
+2023-10-18,Product X,4399.21,4351.71,West,Mike Johnson,Team Gamma,Education
+2023-10-19,Product W,2827.07,2282.93,East,John Smith,Team Gamma,Startup
+2023-10-20,Product Z,-6164.91,-6263.92,West,Jane Doe,Team Gamma,Government
+2023-10-21,Product Y,6289.02,5886.81,South,Mike Johnson,Team Alpha,Education
+2023-10-22,Product W,-1611.26,-1719.43,North,Jane Doe,Team Gamma,Non-Profit
+2023-10-23,Product X,13249.36,13276.51,North,John Smith,Team Beta,Corporate
+2023-10-24,Product W,4761.87,4722.05,North,Sarah Brown,Team Beta,Government
+2023-10-25,Product W,5436.41,4747.19,South,John Smith,Team Alpha,Startup
+2023-10-26,Product W,13977.73,13530.94,West,Sarah Brown,Team Gamma,Enterprise
+2023-10-27,Product W,5626.38,5529.38,South,Jane Doe,Team Beta,Individual
+2023-10-28,Product V,5883.77,5750.22,East,John Smith,Team Beta,Individual
+2023-10-29,Product W,12618.31,11055.09,South,Jane Doe,Team Beta,Government
+2023-10-30,Product V,9651.42,9782.83,North,John Smith,Team Beta,Corporate
+2023-10-31,Product Z,3363.61,3143.64,East,Mike Johnson,Team Alpha,Corporate
+2023-11-01,Product Y,3025.09,3150.68,South,Sarah Brown,Team Gamma,Small Business
+2023-11-02,Product Z,9379.86,10030.54,North,Sarah Brown,Team Gamma,Individual
+2023-11-03,Product Y,12168.58,12251.4,South,Sarah Brown,Team Gamma,Education
+2023-11-04,Product Y,6304.48,6951.34,North,Mike Johnson,Team Beta,Individual
+2023-11-05,Product Y,9630.7,9800.56,West,Mike Johnson,Team Gamma,Individual
+2023-11-06,Product W,747.39,832.56,West,John Smith,Team Gamma,Enterprise
+2023-11-07,Product X,-5455.01,-6246.28,West,John Smith,Team Beta,Small Business
+2023-11-08,Product Z,7815.08,6829.47,South,John Smith,Team Beta,Small Business
+2023-11-09,Product Z,10335.4,10605.14,South,Sarah Brown,Team Beta,Startup
+2023-11-10,Product W,14313.02,14470.1,West,John Smith,Team Beta,Small Business
+2023-11-11,Product X,11522.87,11641.28,North,Jane Doe,Team Alpha,Small Business
+2023-11-12,Product Z,2788.59,3250.0,South,John Smith,Team Beta,Corporate
+2023-11-13,Product X,7507.83,7758.89,North,John Smith,Team Gamma,Individual
+2023-11-14,Product X,-3938.6,-3715.42,East,Mike Johnson,Team Gamma,Individual
+2023-11-15,Product Y,458.32,405.59,West,Mike Johnson,Team Alpha,Government
+2023-11-16,Product V,-2548.31,-2621.88,North,John Smith,Team Beta,Individual
+2023-11-17,Product Z,7466.14,8457.35,South,Jane Doe,Team Beta,Non-Profit
+2023-11-18,Product V,6250.57,7319.59,South,John Smith,Team Beta,Startup
+2023-11-19,Product W,15098.99,14615.65,South,John Smith,Team Gamma,Education
+2023-11-20,Product Z,11483.9,11363.11,West,Jane Doe,Team Beta,Education
+2023-11-21,Product X,4907.41,5217.49,West,Jane Doe,Team Gamma,Small Business
+2023-11-22,Product X,9193.0,10705.94,West,Sarah Brown,Team Beta,Education
+2023-11-23,Product Z,16145.19,17485.64,East,Sarah Brown,Team Alpha,Government
+2023-11-24,Product V,4814.63,4911.06,North,Mike Johnson,Team Beta,Small Business
+2023-11-25,Product V,-1395.08,-1433.85,East,Mike Johnson,Team Beta,Non-Profit
+2023-11-26,Product Y,11998.56,12269.68,West,Mike Johnson,Team Gamma,Corporate
+2023-11-27,Product W,5017.98,5582.62,West,Mike Johnson,Team Gamma,Corporate
+2023-11-28,Product W,-1835.72,-1936.58,East,Jane Doe,Team Beta,Education
+2023-11-29,Product Z,-3391.3,-2936.82,North,Jane Doe,Team Alpha,Individual
+2023-11-30,Product W,3582.29,2915.56,East,John Smith,Team Alpha,Individual
+2023-12-01,Product W,-2890.86,-3009.04,North,Mike Johnson,Team Alpha,Education
+2023-12-02,Product X,4891.66,4932.54,West,Sarah Brown,Team Beta,Education
+2023-12-03,Product Y,-285.09,-277.7,South,Sarah Brown,Team Beta,Startup
+2023-12-04,Product X,7153.91,7054.45,East,Sarah Brown,Team Beta,Individual
+2023-12-05,Product Z,5603.06,6390.01,North,Jane Doe,Team Alpha,Enterprise
+2023-12-06,Product V,10112.57,9856.36,South,Jane Doe,Team Alpha,Small Business
+2023-12-07,Product V,20647.37,19693.85,North,John Smith,Team Alpha,Government
+2023-12-08,Product V,1366.8,1420.42,South,Jane Doe,Team Gamma,Enterprise
+2023-12-09,Product X,11100.72,10507.4,West,Jane Doe,Team Gamma,Government
+2023-12-10,Product V,1863.34,1813.34,West,Jane Doe,Team Alpha,Non-Profit
+2023-12-11,Product Z,3186.52,3236.89,West,John Smith,Team Gamma,Startup
+2023-12-12,Product X,276.47,275.94,South,Sarah Brown,Team Gamma,Enterprise
+2023-12-13,Product X,6304.01,6540.9,North,Jane Doe,Team Alpha,Education
+2023-12-14,Product X,3725.81,3717.05,West,Jane Doe,Team Beta,Corporate
+2023-12-15,Product Z,7233.04,7554.1,East,Jane Doe,Team Gamma,Non-Profit
+2023-12-16,Product Y,3079.24,3134.79,East,John Smith,Team Gamma,Government
+2023-12-17,Product X,-79.07,-77.65,East,Sarah Brown,Team Gamma,Corporate
+2023-12-18,Product X,4778.7,4776.99,North,John Smith,Team Beta,Small Business
+2023-12-19,Product Z,14084.34,15115.55,South,Mike Johnson,Team Gamma,Startup
+2023-12-20,Product Y,-3650.92,-3593.81,North,Mike Johnson,Team Alpha,Government
+2023-12-21,Product V,5487.78,4793.2,West,Sarah Brown,Team Gamma,Education
+2023-12-22,Product W,6384.31,5870.15,North,Mike Johnson,Team Beta,Small Business
+2023-12-23,Product Y,9901.12,8621.14,East,John Smith,Team Gamma,Startup
+2023-12-24,Product X,15329.81,14863.76,East,John Smith,Team Beta,Individual
+2023-12-25,Product Y,12288.12,12693.2,South,Jane Doe,Team Beta,Individual
+2023-12-26,Product Z,3582.7,3518.07,West,John Smith,Team Beta,Non-Profit
+2023-12-27,Product X,15568.36,16482.96,South,Sarah Brown,Team Gamma,Non-Profit
+2023-12-28,Product X,-2728.69,-2846.21,South,Mike Johnson,Team Beta,Non-Profit
+2023-12-29,Product W,3804.63,3922.28,West,Sarah Brown,Team Gamma,Startup
+2023-12-30,Product V,2026.18,2204.63,South,Sarah Brown,Team Gamma,Enterprise
+2023-12-31,Product W,19904.32,19955.91,East,Sarah Brown,Team Beta,Corporate
